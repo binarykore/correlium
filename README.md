@@ -16,7 +16,10 @@
 
 #### To be Updated -
 * MOTD + SSH Banner
-* Unreal IRC Daemon 
+* Unreal IRC Daemon
+* Open Media Vault
+* MCP + Open Claw / Open Web UI
+* Plex NAS 
 
 #### Miners Enabled by Default -
 * 48 Miners (24 Duino Coin / 24 Verus Coin / 1 Myst Node and Watch Tower)
