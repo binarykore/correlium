@@ -9,6 +9,9 @@
 * Lines of Code
 * Watch Cat
 * Auto Reboot
+* Avahi Daemon
+* OpenNDS
+* Mikrotik-based Implementation
 
 #### Miners Enabled by Default -
 * 48 Miners (24 Duino Coin / 24 Verus Coin / 1 Myst Node and Watch Tower)
