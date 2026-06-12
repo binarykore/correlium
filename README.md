@@ -3,7 +3,7 @@
 * Hotpot and Solaris Update
 
 #### Confirmed Working:
-* Orange Pi 3B (8GB)
+* Orange Pi 3B (8GB) - Armbian OS
 
 #### Installer (soon) on Private Branch -
 * Lines of Code (Progress Installer)
@@ -13,6 +13,7 @@
 * OpenNDS (Hotspot Splash Portal)
 * Mikrotik-based Implementation
 * Zero Tier / Twin Gate (Zero Trust)
+* Docker CE + Docker Socket
 
 #### To be Updated -
 * MOTD + SSH Banner
