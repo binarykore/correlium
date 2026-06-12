@@ -1,5 +1,5 @@
 #### Correlium
-* Correlium OS
+* Correlium OS / Fluid OS
 * Hotpot and Solaris Update
 
 #### Confirmed Working:
