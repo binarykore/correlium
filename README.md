@@ -3,14 +3,14 @@
 * Hotpot and Solaris Update
 
 #### Confirmed Working:
-* Orange Pi 3B
+* Orange Pi 3B (8GB)
 
 #### Installer (soon) on Private Branch -
-* Lines of Code
-* Watch Cat
-* Auto Reboot
-* Avahi Daemon
-* OpenNDS
+* Lines of Code (Progress Installer)
+* Watch Cat (DNS Portal)
+* Auto Reboot (Device Restart)
+* Avahi Daemon (mDNS - Multi Cast)
+* OpenNDS (Hotspot Splash Portal)
 * Mikrotik-based Implementation
 
 #### Miners Enabled by Default -
