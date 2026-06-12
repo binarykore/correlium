@@ -1,2 +1,3 @@
-# correlium
-Correlium OS
+#### Correlium
+* Correlium OS
+* Hotpot and Solaris Update
