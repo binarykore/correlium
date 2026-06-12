@@ -12,7 +12,11 @@
 * Avahi Daemon (mDNS - Multi Cast)
 * OpenNDS (Hotspot Splash Portal)
 * Mikrotik-based Implementation
-* Zero Tier / Twin Gate (Zero Trust) 
+* Zero Tier / Twin Gate (Zero Trust)
+
+#### To be Updated -
+* MOTD + SSH Banner
+* Unreal IRC Daemon 
 
 #### Miners Enabled by Default -
 * 48 Miners (24 Duino Coin / 24 Verus Coin / 1 Myst Node and Watch Tower)
