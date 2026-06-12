@@ -1,6 +1,7 @@
 #### Correlium
 * Correlium OS / Fluid OS
 * Hotpot and Solaris Update
+* Arya Sec AI (PEDAL) 
 
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
