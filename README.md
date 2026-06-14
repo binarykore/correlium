@@ -15,6 +15,7 @@
 * Mikrotik-based Implementation
 * Zero Tier / Twin Gate (Zero Trust)
 * Docker CE + Docker Socket
+* Adguard Home / Pi Hole / OpenWRT
 
 #### To be Updated -
 * MOTD + SSH Banner
