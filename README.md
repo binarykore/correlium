@@ -2,6 +2,7 @@
 * Correlium OS / Fluid OS
 * Hotpot and Solaris Update
 * Arya Sec AI (PEDAL) 
+* Cyberdeck (Harmony OS) + Obsidian
 
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
