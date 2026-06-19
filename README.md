@@ -52,5 +52,7 @@
 * CLIENT_SECRET
 * CLIENT_TOKEN
 * Wallet Data (to be followed) 
-* Message me on: binarymako@inbox.portal.snowkelus.xyz (POST Requests IMs to keep Updated) - PATs
+
+#### Wire Chat -
+* Message me on: binarymako@inbox.portal.snowkelus.xyz (POST Requests IMs - Instant Messaging especially Sockets to keep Updated) - PATs (Personal Access Token) 
 * Wire Chat - Instant Messaging PATs (HTTP REST - POST via cURL) - Note, it is not some SAMs Email Address
