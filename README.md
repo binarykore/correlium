@@ -4,6 +4,14 @@
 * Arya Sec AI (PEDAL) 
 * Cyberdeck (Harmony OS) + Obsidian
 
+#### Device Variation
+* Solaris
+* Sonaria
+* Hotpot
+* Mana One
+* Manta
+* Shadow Mini
+
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
 
