@@ -47,3 +47,8 @@
 * GitHub -
 
 [![Sponsor Binary Kore](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
+
+#### Rapid API -
+* - CLIENT_SECRET
+* - CLIENT_TOKEN
+* - Wallet Data (to be followed) 
