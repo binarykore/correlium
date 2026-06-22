@@ -11,6 +11,7 @@
 * Mana One
 * Manta
 * Shadow Mini
+* Corrialis
 
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
