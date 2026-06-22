@@ -51,7 +51,8 @@
 #### Rapid API -
 * CLIENT_SECRET
 * CLIENT_TOKEN
-* Wallet Data (to be followed) 
+* Wallet Data (to be followed)
+* Installer Data (soon)
 
 #### Wire Chat -
 * Message me on: binarymako@inbox.portal.snowkelus.xyz (POST Requests IMs - Instant Messaging especially Sockets to keep Updated) - PATs (Personal Access Token) 
