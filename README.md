@@ -12,6 +12,7 @@
 * Manta
 * Shadow Mini
 * Corrialis
+* Black Fish
 
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
