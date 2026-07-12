@@ -13,6 +13,8 @@
 * Shadow Mini
 * Corrialis
 * Black Fish
+* Black Root
+* Black Sun
 
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
@@ -49,6 +51,9 @@
 * GitHub -
 
 [![Sponsor Binary Kore](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
+
+#### Note -
+* If you want to keep the Project Alive, Consider Donating 😊☺️
 
 #### Rapid API -
 * CLIENT_SECRET
