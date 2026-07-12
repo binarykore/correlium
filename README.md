@@ -52,6 +52,16 @@
 
 [![Sponsor Binary Kore](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
 
+* Bitcoin -
+
+[![BTC](https://img.shields.io/liberapay/patrons/binarymako.svg?logo=liberapay)](bitcoin:address?amount=amount_to_send&label=account_label&message=message)
+
+* Ethereum -
+
+[![ETH](https://img.shields.io/liberapay/patrons/binarymako.svg?logo=liberapay)](ethereum:address?value=amount_to_send)
+
+
+
 #### Note -
 * If you want to keep the Project Alive, Consider Donating 😊☺️
 
