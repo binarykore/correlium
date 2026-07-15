@@ -62,8 +62,11 @@
 
 
 
-#### Note -
-* If you want to keep the Project Alive, Consider Donating 😊☺️
+#### Notice from the Dev -
+* If you want to keep this Project Alive, Consider Donating 🏦✉️✍️
+
+#### Mining Portal -
+* https://graymountain.portal.website.org
 
 #### Rapid API -
 * CLIENT_SECRET
