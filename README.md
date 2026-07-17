@@ -77,6 +77,7 @@
 * https://installer.portal.aryasec.ai/device/variation/@solaris
 * https://installer.binary.aryasec.ai/device/variation/@solaris
 * https://installer.repository.aryasec.ai/device/acs/@solaris
+* https://installer.repository.aryasec.ai/device/ota/@solaris
 
 #### Rapid API -
 * CLIENT_SECRET
