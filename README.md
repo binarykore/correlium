@@ -15,6 +15,7 @@
 * Black Fish
 * Black Root
 * Black Sun
+* Companion
 
 #### Confirmed Working:
 * Orange Pi 3B (8GB) - Armbian OS
