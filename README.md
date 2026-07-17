@@ -1,8 +1,9 @@
 #### Correlium
 * Correlium OS / Fluid OS
 * Hotpot and Solaris Update
-* Arya Sec AI (PEDAL) 
+* Arya Sec AI (PEDAL + Peer Trade) 
 * Cyberdeck (Harmony OS) + Obsidian
+* Peer Trade and PEDAL Portal
 
 #### Device Variation
 * Solaris
