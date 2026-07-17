@@ -73,7 +73,7 @@
 * https://graymountain.portal.website.org/miner/wallet.dat/@binarymako
 
 #### Installer Data -
-* aryasec.ai/device/variation/@solaris
+* https://installer.portal.aryasec.ai/device/variation/@solaris
 
 #### Rapid API -
 * CLIENT_SECRET
