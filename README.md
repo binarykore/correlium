@@ -70,10 +70,13 @@
 * https://graymountain.portal.website.org
 
 #### Wallet Data -
-* https://graymountain.portal.website.org/miner/wallet.dat/@binarymako
+* https://graymountain.portal.website.org/miner/wallet.dat/@username
+* Wallet Addresses converted from $USERNAME, EG: Shark Tooth
 
 #### Installer Data -
 * https://installer.portal.aryasec.ai/device/variation/@solaris
+* https://installer.binary.aryasec.ai/device/variation/@solaris
+* https://installer.repository.aryasec.ai/device/acs/@solaris
 
 #### Rapid API -
 * CLIENT_SECRET
