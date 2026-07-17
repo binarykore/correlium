@@ -69,6 +69,12 @@
 #### Mining Portal -
 * https://graymountain.portal.website.org
 
+#### Wallet Data -
+* https://graymountain.portal.website.org/miner/wallet.dat/@binarymako
+
+#### Installer Data -
+* aryasec.ai/device/variation/@solaris
+
 #### Rapid API -
 * CLIENT_SECRET
 * CLIENT_TOKEN
