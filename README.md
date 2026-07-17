@@ -40,9 +40,10 @@
 * MCP + Open Claw / Open Web UI
 * Plex NAS / Synology NAS
 * Gitea SPK or Docker
+* Sonar Player (Music from Wind) 
 
 #### Miners Enabled by Default -
-* 48 Miners (24 Duino Coin / 24 Verus Coin / 1 Myst Node and Watch Tower)
+* 48 Miners (24 Duino Coin / 24 Verus Coin / 1 Myst Node and 1 Watch Tower)
 * Systemctl / System Daemon + Services
 
 #### Donations -
