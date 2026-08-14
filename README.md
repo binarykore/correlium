@@ -44,7 +44,8 @@
 * AI Companion (Text to Audio) 
 
 #### Miners Enabled by Default -
-* 48 Miners or 72 Miners + 1 Bandwidth (24 Duino Coin / 24 Verus Coin / 24 Digibyte Coin / 1 Myst Node and 1 Watch Tower)
+* 48 Miners or 72 Miners + 1 Bandwidth Miner and 1 Watch Tower / 1 Adguard Home
+* (24 Duino Coin / 24 Verus Coin / 24 Digibyte Coin / 1 Myst Node and 1 Watch Tower)
 * Systemctl / System Daemon + Services
 
 #### Donations -
