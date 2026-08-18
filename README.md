@@ -60,7 +60,7 @@
 
 * Bitcoin -
 
-[![BTC](https://img.shields.io/liberapay/patrons/binarymako.svg?logo=liberapay)](bitcoin:address?amount=amount_to_send&label=account_label&message=message)
+[![BTC](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](bitcoin:address?amount=amount_to_send&label=account_label&message=message)
 
 * Ethereum -
 
