@@ -64,7 +64,7 @@
 
 * Ethereum -
 
-[![ETH](https://img.shields.io/liberapay/patrons/binarymako.svg?logo=liberapay)](ethereum:address?value=amount_to_send)
+[![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](ethereum:address?value=amount_to_send)
 
 
 
