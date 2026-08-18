@@ -66,6 +66,10 @@
 
 [![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](ethereum:address?value=amount_to_send)
 
+* USDT -
+
+[![USDT](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#)
+
 
 
 #### Notice from the Dev -
