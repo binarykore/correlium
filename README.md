@@ -70,7 +70,7 @@
 
 * USDT -
 
-[![USDT](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#)
+[![USDT](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](ethereum:0xdac17f958d2ee523a2206206994597c13d831ec7/transfer?address=wallet_address&uint256=amount_to_send)
 
 
 
