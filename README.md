@@ -3,7 +3,7 @@
 * Hotpot and Solaris Update
 * Arya Sec AI (PEDAL + Peer Trade) 
 * Cyberdeck (Harmony OS) + Obsidian
-* Peer Trade Portal and PEDAL Portal
+* Peer Trade - Portal and PEDAL - Portal
 * Lever Copyright and TOS below 🧓👇
 
 #### Device Variation
