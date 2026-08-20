@@ -46,7 +46,7 @@
 #### Miners Enabled by Default -
 * 48 Miners or 72 Miners + 1 Bandwidth Miner and 1 Watch Tower / 1 Adguard Home
 * Miners - (24 Duino Coin / 24 Verus Coin / 24 Digibyte Coin / 1 Myst Node and 1 Watch Tower)
-* Systemctl / System Daemon + Services
+* SystemCTL / System Daemon + Services
 
 ![Miner](https://github.com/binarykore/correlium/blob/main/miner_01?raw=true)
 
@@ -76,6 +76,7 @@
 
 #### Notice from the Dev -
 * If you want to keep this Project Alive, Consider Donating 🏦✉️✍️
+* We are considering converting the Code using SHC / PS2Exe
 
 #### Mining Portal -
 * https://graymountain.portal.website.org
