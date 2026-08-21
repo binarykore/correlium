@@ -6,6 +6,13 @@
 * Peer Trade - Portal and PEDAL - Portal
 * Lever Copyright and TOS below 🧓👇
 
+#### Shop
+* FPPS
+* PPLNs
+* CPU / GPU / Cloud - Rental
+* Devices Starting Price at: PHP 6,000.00 (Crypto / AI - Hardware)
+* Device Variations are found below -
+
 #### Device Variation
 * Solaris
 * Sonaria
